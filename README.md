@@ -6,4 +6,5 @@
   shortest path is highlighted in red on the plot.
 
 Requires matplotlib:  pip install matplotlib
+
 To write thiss I used Claude Code and he did it all so it wasnt much of me 
