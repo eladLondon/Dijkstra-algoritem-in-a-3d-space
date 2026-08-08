@@ -7,4 +7,7 @@
 
 Requires matplotlib:  pip install matplotlib
 
-To write thiss I used Claude Code and he did it all so it wasnt much of me 
+To write this I used Claude Code and he did the coding and I navagated him.
+<img width="1915" height="1018" alt="image" src="https://github.com/user-attachments/assets/b31bbf5c-2b89-4825-8a75-91321f1a4ebc" />
+
+
